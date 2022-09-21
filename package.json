@@ -1,0 +1,24 @@
+{
+  "name": "mockjson",
+  "version": "1.0.0",
+  "description": "to get fake data for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshubisht9/mockjson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranshubisht9/mockjson/issues"
+  },
+  "homepage": "https://github.com/pranshubisht9/mockjson#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
